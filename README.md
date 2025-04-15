@@ -92,7 +92,7 @@ An illustrative concept is a **interstellar probe** that uses a **superconductin
 
 **Safety and reliability in space** are also considerations – uncontrolled release of stored energy is a risk (a fully charged stateful system might contain energy equivalent to an explosive). However, quantum systems can be inherently safer in some ways: a spin ice won’t spontaneously blow up like chemical fuel; it needs a specific trigger (magnetic field change) to release energy. This controllability and lack of volatile combustion could improve mission safety, as long as robust fail-safes (like dumping the energy as harmless radiation if needed) are in place.
 
-In summary, for propulsion, stateful energy storage offers a path to higher performing, more flexible spacecraft. In the near term, we may see small demonstrators (perhaps a cubesat testing a superconducting boost capacitor or a phase-change thruster). In the long term, these could be integral to ambitious projects like interplanetary shutt*(Continued)*
+In summary, for propulsion, stateful energy storage offers a path to higher performing, more flexible spacecraft. In the near term, we may see small demonstrators (perhaps a cubesat testing a superconducting boost capacitor or a phase-change thruster). In the long term, these could be integral to ambitious projects like interplanetary shuttles.
 
 ### Grid Storage (Renewables and Utility-Scale Storage)  
 Electric power grids increasingly demand large-scale energy storage to buffer intermittent renewable generation (solar, wind) and provide stabilization. Stateful energy systems, while more complex than chemical batteries, could offer unique advantages at the grid scale:
